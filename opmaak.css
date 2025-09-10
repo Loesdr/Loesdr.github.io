@@ -6,10 +6,16 @@ ul
   padding: 0;
   width: 200px;
   background-color:rgb(239, 171, 183);
+  border:1px; 
 } 
 li a {
   display: block;
   color: black;
   padding: 8px 16px;
   text-decoration: none;
+  text-align: center;
+  border-bottom: 1px;
+
 }
+
+
