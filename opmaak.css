@@ -19,7 +19,7 @@ text-align:left;
 border-bottom: 1px solid;
 }
 
-li: :last-child {
+li:last-child {
   border-bottom: none; 
 }
 
