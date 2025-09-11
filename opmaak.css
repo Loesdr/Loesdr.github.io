@@ -26,6 +26,8 @@ li:last-child {
 li a.active {
 color: white;
 background-color: rgb(177, 177, 177);
+}
+
 
 ul li a:hover {
 background-color: rgb(177, 177, 177);
