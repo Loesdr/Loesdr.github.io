@@ -6,7 +6,7 @@ ul
   padding: 0;
   width: 200px;
   background-color:rgb(225, 225, 225);
-  border: 1px solid; 
+  overflow: hidden;
 } 
 ul li a {
   display: block;
@@ -14,13 +14,8 @@ ul li a {
   padding: 8px 16px;
   text-decoration: none;
 }
-li {
-text-align:left;
-border-bottom: 1px solid;
-}
-
-li:last-child {
-  border-bottom: none; 
+ul li  {
+  float: left;
 }
 
 li a.active {
