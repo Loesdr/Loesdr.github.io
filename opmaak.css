@@ -16,7 +16,7 @@ ul li a {
 }
 li {
 text-align:left;
-border-bottom: 0,75px solid;
+border-bottom: 1px solid;
 }
 
 ul li a:hover {
