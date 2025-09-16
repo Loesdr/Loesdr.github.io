@@ -4,7 +4,6 @@ ul
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
   background-color:rgb(225, 225, 225);
   overflow: hidden;
 } 
@@ -13,6 +12,7 @@ ul li a {
   color: black;
   padding: 8px 16px;
   text-decoration: none;
+  text-align: center;
 }
 ul li  {
   float: left;
