@@ -5,7 +5,7 @@ ul
   margin: 0;
   padding: 0;
   background-color:#e1e1e1;
-  position: fixed;
+  position: sticky;
   overflow:hidden;
   width: 100%;
 } 
