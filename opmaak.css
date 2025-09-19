@@ -35,6 +35,9 @@ ul li a:last-child{
 
 body{
   background-image:url(bollen.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 p{
