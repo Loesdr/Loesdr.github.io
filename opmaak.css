@@ -20,7 +20,6 @@ ul li  {
   float: left;
 }
 
-
 li a.active {
 color: rgb(0, 0, 0);
 background-color: rgb(177, 177, 177);
@@ -35,7 +34,7 @@ ul li a:last-child{
 }
 
 body{
-  background-color: #525252;
+  background-image:url(desktop-wallpaper-a-black-backgrounds-website-webpage.jpg);
 }
 
 p{
