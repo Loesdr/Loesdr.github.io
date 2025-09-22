@@ -43,6 +43,7 @@ body{
 p{
   color: white; 
   background-color: black;
+  border-style: double; 
   border-color: #ffffff;
 }
 
