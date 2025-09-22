@@ -42,8 +42,11 @@ body{
 
 p{
   color: white; 
+  background-color: black;
+  border-color: #ffffff;
 }
 
 h1 {
   color: white;
 }
+
