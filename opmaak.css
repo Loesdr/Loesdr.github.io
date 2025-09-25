@@ -53,7 +53,8 @@ body{
   
 }
 
-h1 {
+.h1tekst{ 
   color: white;
+  float: center; 
 }
 
