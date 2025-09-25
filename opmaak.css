@@ -63,10 +63,10 @@ body{
 
 .h1tekst{
   color:#ffffff; 
-  margin-left: 375px; 
+  position: center;  
 }
 
 .h1tekstpagina2{
   color:#ffffff;
-  margin-left: 375px;
+  position: center;
 }
