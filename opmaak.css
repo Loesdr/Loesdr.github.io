@@ -46,7 +46,9 @@ body{
   border-style: double; 
   border-color: #ffffff;
   border-width: 3px; 
-  margin: none;
+  margin-left: 20px;
+  margin-right: 20px;
+
   
 }
 
@@ -60,8 +62,6 @@ body{
   margin-right: 20px
   
 }
-
-
 
 .h1tekst{
   color:#fefefe; 
