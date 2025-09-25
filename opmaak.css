@@ -100,10 +100,12 @@ body{
 a:link{
   color: white;
   text-decoration: none; 
+  background-color: transparent;
   margin: 10px; 
 }
 
 a:visited{
   color:#ffffff;
   text-decoration: none;
+  background-color: transparent;
 }
