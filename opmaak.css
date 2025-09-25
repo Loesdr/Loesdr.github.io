@@ -101,7 +101,9 @@ body{
 
 .jeffbuckley:link{
   color:#ffffff;
-  text-decoration: none;}
+  text-decoration: none;
+  margin-left: 15px; 
+}
 .jeffbuckley:visited{
   color:white;
   text-decoration: none;}
