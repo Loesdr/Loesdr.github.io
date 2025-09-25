@@ -9,6 +9,7 @@ ul
   overflow:hidden;
   width: 100%;
 } 
+
 ul li a {
   display: block;
   color: black;
@@ -16,6 +17,7 @@ ul li a {
   text-decoration: none;
   text-align: center;
 }
+
 ul li  {
   float: left;
 }
@@ -100,12 +102,9 @@ body{
 a:link{
   color: white;
   text-decoration: none; 
-  background-color: transparent;
-  margin: 15px; 
 }
 
 a:visited{
   color:#ffffff;
   text-decoration: none;
-  background-color: transparent;
 }
