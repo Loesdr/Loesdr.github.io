@@ -99,7 +99,5 @@ body{
   text-align: center;
 }
 
-.jeffbuckley{ 
-color:#ffffff;
-}
+.jeffbuckley:link{color:#ffffff;}
 
