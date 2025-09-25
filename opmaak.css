@@ -42,6 +42,7 @@ body{
 
 .voorpaginatekst{
   color: white; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: black;
   border-style: double; 
   border-color: #ffffff;
