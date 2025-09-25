@@ -99,5 +99,12 @@ body{
   text-align: center;
 }
 
-a.jeffbuckley:link{color:#ffffff;}
+.jeffbuckley:link{
+  color:#ffffff;
+  text-decoration: none;}
+.jeffbuckley:visited{
+  color:white;
+  text-decoration: none;}
+
+
 
