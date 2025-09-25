@@ -46,10 +46,16 @@ body{
   border-style: double; 
   border-color: #ffffff;
   border-width: 3px; 
-  margin: 1px;
+  margin: none;
+  
 }
 
 .tweedepaginatekst{
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-color:lightgrey;
+  border-width: 3px;
   
 }
 
