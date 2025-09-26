@@ -141,9 +141,9 @@ body{
   border-width: 3px; 
 }
 
-.linkkleurmodellen{
+.linkkleurmodellen:link{
   color:#fefefe;
-  margin: auto; 
+  margin-left:30px; 
 }
 
 .cmymodelimg{
