@@ -51,6 +51,7 @@ body{
 .voorpaginatekst{
   color: white; 
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
   background-color: black;
   border-style: double; 
   border-color: #ffffff;
@@ -141,10 +142,16 @@ body{
   border-width: 3px; 
 }
 
+
 .linkkleurmodellen:link{
   color:#fefefe;
   margin-left:30px; 
 }
+
+.linkkleurmodellen:visited{
+  color:white;
+}
+
 
 .cmymodelimg{
   display:block; 
