@@ -95,32 +95,9 @@ body{
 }
 
 .tekstkleurmodellen1{
-  color: rgb(255, 255, 255);
-  background-color: #ffffff;
-  border-style: solid;
-  border-color:lightgrey;
-  border-width: 3px;
-  margin-left: 20px;
-  margin-right: 20px;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 2px;
-  padding-right: 2px;
+  color:#ffffff;
+  
 }
-
- .tekstkleurmodellen2{
-  color: black;
-  background-color: #ffffff;
-  border-style: solid;
-  border-color:lightgrey;
-  border-width: 3px;
-  margin-left: 20px;
-  margin-right: 20px;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 2px;
-  padding-right: 2px;
- }
 
 
 .tekstpagina5{
