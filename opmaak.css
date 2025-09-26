@@ -127,8 +127,7 @@ body{
 }
 
 .imgvanrbgmodel{
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto; 
   border-style: solid;
   border-color:lightgrey;
   border-width: 3px;
