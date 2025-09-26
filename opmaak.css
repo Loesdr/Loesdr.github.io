@@ -136,6 +136,16 @@ body{
   border-width: 3px;
 }
 
+.cmymodelimg{
+  margin-left:45%;
+  margin-right: 55%;
+  width: 300px; 
+  border-style: solid;
+  border-color:lightgrey;
+  border-width: 3px;
+}
+
+
 .tekstkleurmodellen3{
   color: black;
   font-family: Georgia, 'Times New Roman', Times, serif;
