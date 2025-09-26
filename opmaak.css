@@ -133,8 +133,8 @@ body{
 }
 
 .imgvanrbgmodel{
-  margin-left:50%;
-  margin-right: 50%;
+  margin-left:42%;
+  margin-right: 58%;
   width: 300px; 
   border-style: solid;
   border-color:lightgrey;
@@ -143,12 +143,13 @@ body{
 
 .linkkleurmodellen{
   color:#fefefe;
+  margin: auto; 
 }
 
 .cmymodelimg{
   margin-left:42%;
   margin-right: 58%;
-  width: 20px; 
+  width: 300px; 
   border-style: solid;
   border-color:lightgrey;
   border-width: 3px;
