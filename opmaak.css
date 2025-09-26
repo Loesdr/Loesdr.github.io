@@ -95,7 +95,7 @@ body{
 }
 
 .tekstkleurmodellen1{
-  color: black;
+  color: rgb(255, 255, 255);
   background-color: #ffffff;
   border-style: solid;
   border-color:lightgrey;
@@ -107,6 +107,7 @@ body{
   padding-left: 2px;
   padding-right: 2px;
 }
+
  .tekstkleurmodellen2{
   color: black;
   background-color: #ffffff;
@@ -120,9 +121,6 @@ body{
   padding-left: 2px;
   padding-right: 2px;
  }
-
-
-
 
 
 .tekstpagina5{
