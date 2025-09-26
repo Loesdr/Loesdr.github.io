@@ -82,7 +82,9 @@ body{
 }
  
 .inputimg{
-  width: 400px;
+  display:block; 
+  margin:auto;
+  width:300px;
 }
 
 .h1tekst{
