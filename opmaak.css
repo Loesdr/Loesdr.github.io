@@ -229,7 +229,9 @@ body{
 .samplesfoto{
 border-color:lightgrey;
 width: 800px;
-height: 500px
+height: 500px;
+margin-left: 30px;
+
 }
 
 .tekstpagina5{
