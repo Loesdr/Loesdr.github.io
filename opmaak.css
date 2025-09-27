@@ -206,6 +206,7 @@ body{
   border-style: solid;
   border-color:lightgrey;
   border-width: 3px;
+  float: right;
 }
 
 .tekstcompressie2{
