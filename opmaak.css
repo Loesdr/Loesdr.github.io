@@ -203,7 +203,7 @@ body{
 }
 
 .pixelfoto{
-  display:block;
+  display:flex;
   border-style: solid;
   border-color:lightgrey;
   border-width: 3px;
