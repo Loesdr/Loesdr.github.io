@@ -202,6 +202,12 @@ body{
   padding-right: 2px;
 }
 
+.pixelfoto{
+  border-style: solid;
+  border-color:lightgrey;
+  border-width: 3px;
+}
+
 .tekstcompressie2{
   color: black;
   font-family: Georgia, 'Times New Roman', Times, serif;
