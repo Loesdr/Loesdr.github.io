@@ -186,12 +186,19 @@ body{
   padding-right: 2px;
 }
 
-
-
-
-
-
-
+.tekstcompressie{
+ color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  background-color: white;
+  border-style: solid;
+  border-color:lightgrey;
+  border-width: 3px; 
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
 
 
 
