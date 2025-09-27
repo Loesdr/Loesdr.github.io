@@ -82,9 +82,11 @@ body{
 }
  
 .inputimg{
-  width:1000px;
-  margin-left:50px;
-}
+  border-color:lightgrey;
+  width: 750px;
+  height: 600px;
+  margin-left: 30px;
+} 
 
 .h1tekst{
   color:#fefefe; 
