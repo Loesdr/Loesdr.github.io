@@ -203,11 +203,11 @@ body{
 }
 
 .pixelfoto{
-  display:flex;
   border-style: solid;
   border-color:lightgrey;
   border-width: 3px;
   float: right;
+  margin-left:10px;
 }
 
 .tekstcompressie2{
