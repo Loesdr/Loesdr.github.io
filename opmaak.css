@@ -117,6 +117,8 @@ body{
 }
 
 .binairimg{
+  height:350px;
+  margin-right:100px;
   border-style: solid;
   border-color:lightgrey;
   border-width: 3px;
