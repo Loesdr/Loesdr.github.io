@@ -116,7 +116,12 @@ body{
   padding-right: 2px;
 }
 
-
+.binairimg{
+  border-style: solid;
+  border-color:lightgrey;
+  border-width: 3px;
+  float: right;
+}
 
 .tekstbinair2{
   color: black;
