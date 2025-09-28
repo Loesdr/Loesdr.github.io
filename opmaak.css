@@ -126,6 +126,10 @@ body{
   float: right;
 }
 
+.binarypicture{
+  margin-left:30px;
+}
+
 .tekstbinair2{
   color: black;
   font-family: Georgia, 'Times New Roman', Times, serif;
