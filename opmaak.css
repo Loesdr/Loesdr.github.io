@@ -84,6 +84,7 @@ body{
 .ivulink:link{
   color:#fefefe;
   text-decoration: none;
+  padding: 10px 20px;
   text-align: center;
   margin-left: 30px; 
   display:inline-block;
