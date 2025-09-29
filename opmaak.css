@@ -84,6 +84,7 @@ body{
 .ivulink:link, .ivulink:visited{
   color:#ffffff;
   text-decoration: none;
+  text-align: center;
   margin-left: 30px; 
   display:inline-block;
   border: 3px white;
