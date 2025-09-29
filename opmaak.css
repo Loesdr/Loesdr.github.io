@@ -81,7 +81,7 @@ body{
   
 }
 
-.ivulink:link, .ivulink:visited{
+.ivulink:link{
   color:#ff1b1b;
   text-decoration: none;
   text-align: center;
@@ -90,7 +90,16 @@ body{
   border: 3px white;
 }
 
-.ivulink:hover, .ivulink:active{
+ .ivulink:visited{
+  color:#ff1b1b;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 30px; 
+  display:inline-block;
+  border: 3px white;
+ }
+
+.ivulink:hover{
   background-color: #fefefe;
   color: black;
 }
