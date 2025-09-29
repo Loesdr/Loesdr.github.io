@@ -64,6 +64,11 @@ body{
   padding-right: 2px;
 }
 
+.fotovanmij{
+  width: 300px;
+  height: 600;
+}
+
 .tweedepaginatekst{
   color: black;
   font-family: Georgia, 'Times New Roman', Times, serif;
