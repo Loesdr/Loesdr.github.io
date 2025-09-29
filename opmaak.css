@@ -89,6 +89,12 @@ body{
   border: 3px white;
 }
 
+.ivulink:hover, .ivulink:active{
+  background-color: #fefefe;
+  color: black;
+}
+
+
 .inputimg{
   display:block; 
   margin:auto;
