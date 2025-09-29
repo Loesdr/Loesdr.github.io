@@ -80,7 +80,18 @@ body{
   padding-right: 2px;
   
 }
- 
+
+.ivulink:link{
+  color:#ffffff;
+  text-decoration: none;
+  margin-left: 30px; 
+}
+
+.ivulink:visited{
+  color:white;
+  text-decoration: none;
+}
+
 .inputimg{
   display:block; 
   margin:auto;
@@ -89,6 +100,7 @@ body{
   height: 300px;
   
 } 
+
 
 .h1tekst{
   color:#fefefe; 
