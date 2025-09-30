@@ -258,8 +258,8 @@ body{
 }
 
 .linkkleurmodellen:hover{
-  background-color: #fefefe;
   color: black;
+  background-color: red;
 }
 
 
