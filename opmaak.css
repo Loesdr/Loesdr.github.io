@@ -62,7 +62,8 @@ body{
   background-size: cover;
 }
 
-
+/* Met de border geef ik een rand aan om de tekst,
+ met de border-style: double heb ik een dubbele lijn om mijn tekst heen gemaakt.*/
 .voorpaginatekst{
   color: white; 
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -83,7 +84,7 @@ body{
   margin-left: 200px;
 }
 
-
+/* met width en height worden de lengte en breedte van de foto bedoeld*/
 .fotovanmij{
   width: 450px;
   height: 600px;
