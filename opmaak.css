@@ -257,6 +257,12 @@ body{
   border: 3px solid white
 }
 
+.linkkleurmodellen:hover{
+  background-color: #fefefe;
+  color: black;
+}
+
+
 .linkkleurmodellen:visited{
   color:#fefefe;
   text-decoration: none;
