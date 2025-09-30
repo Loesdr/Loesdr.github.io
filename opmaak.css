@@ -1,8 +1,13 @@
+/*Hiermee geef ik aan dat ik wil dat mijn site helemaal aansluit op de ruimte */
 body{
   margin: 0;
   padding: 0;
 }
-
+/*Hiermee geef ik de lijst (met menu) aan en kan ik het aanpassen, met de margin en padding geef ik aan dat ik wil dat het menu geen ruimte tussen de randen van de pagina heeft.
+Met backround-color geef ik de achtergrond kleur weer. Met position sticky zorg ik ervoor dat mijn menu bovenaan zichtbaar blijft ookal scroll je naar beneden.
+Met overflow:hidden zorg ik ervoor dat het menu niet doorgaat maar dat het netjes blijft.
+Met top:0 zit het menu helemaal vast aan de top zonder ruimte ertusse.
+Met width 100% is het menu de hele website lang.*/
 
 ul
 {
@@ -16,6 +21,7 @@ ul
   width: 100%;
 } 
 
+/* Text-aling: center zorgt ervoor dat de teskt in het midden staat, de font-size geeft de grootte van de letters aan.*/
 ul li a {
   display: block;
   color: black;
@@ -25,22 +31,29 @@ ul li a {
   font-size: 20px;
 }
 
+/* float: left geeft aan dat het menu naar links moet 'vliegen'.*/
 ul li  {
   float: left;
 }
+
 
 li a.active {
 color: rgb(0, 0, 0);
 background-color: rgb(229, 227, 227);
 }
 
+/*Met hover wordt er aangeven dat bij dit menu als je erover heengaat met de muis dat het stukje een andere kleur wordt, ik heb daarvoor een grijze kleur gegeven.*/
 ul li a:hover {
 background-color: rgb(223, 222, 222);
 }
 
+/* hiermee geef ik aan dat het laatste deel van het menu naar rechts moet vliegen.*/
 ul li a:last-child{
   float:right;
 }
+
+/* hiermee heb ik de achtergrond ingesteld, het eerste stukje is de foto, het tweedestukje is dat de foto zich niet herhaald, zonder dit komt de foto namelijk 4x op de pagina,
+de backround-size: cover zorgt ervoor dat het plaatje de hele pagina vult.*/
 
 body{
   background-image:url(bollen.jpg);
@@ -48,6 +61,7 @@ body{
   background-attachment: fixed;
   background-size: cover;
 }
+
 
 .voorpaginatekst{
   color: white; 
