@@ -118,6 +118,8 @@ body{
   
 }
 
+
+/* Hiermee geef ik aan wat de aanpassingen zijn van de link als de link nog niet geoepend is*/
 .ivulink:link{
   color:#fefefe;
   text-decoration: none;
@@ -127,7 +129,7 @@ body{
   display:inline-block;
   border: 3px solid white;
 }
-
+/* Hiermee geef ik aan wat de aanpassingen zijn als de link wel geopend is*/
  .ivulink:visited{
   color:#fefefe;
   text-decoration: none;
@@ -137,6 +139,7 @@ body{
   border: 3px solid white;
  }
 
+ 
 .ivulink:hover{
   background-color: #fefefe;
   color: black;
