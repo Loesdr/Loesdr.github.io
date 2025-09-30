@@ -56,7 +56,7 @@ ul li a:last-child{
 de backround-size: cover zorgt ervoor dat het plaatje de hele pagina vult.*/
 
 body{
-  background-image:url(bollen.jpg);
+  background-image:url(/afbeeldingen/bollen.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
