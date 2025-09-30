@@ -258,7 +258,13 @@ body{
 }
 
 .linkkleurmodellen:visited{
-  color:white;
+  color:#fefefe;
+  text-decoration: none;
+  padding: 10px 20px;
+  text-align: center;
+  margin-left: 30px; 
+  display:inline-block;
+  border: 3px solid white;
 }
 
 
